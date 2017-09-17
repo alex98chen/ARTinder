@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloWorld</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Chris\Documents\ARTinderTest\AR-Tinder-Test\Build\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Chris\Documents\ARTinderTest\AR-Tinder-Test\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

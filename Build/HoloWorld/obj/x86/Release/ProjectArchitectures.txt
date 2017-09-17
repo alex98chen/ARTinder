@@ -1,0 +1,4 @@
+C:\Users\Chris\Documents\ARTinderTest\AR-Tinder-Test\Build\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Chris\Documents\ARTinderTest\AR-Tinder-Test\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Chris\Documents\ARTinderTest\AR-Tinder-Test\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Chris\Documents\ARTinderTest\AR-Tinder-Test\Build\HoloWorld\HoloWorld.csproj;x86
